@@ -28,6 +28,12 @@ for server in servers:
     print(server['_source'])
 ```
 
+Execute the program and save the output to a file for easier visual rather than seeing a large response in terminal:
+
+```shell
+python3 search_servers_by_location.py > servers_by_location
+```
+
 When I run this program, I see the following response:
 
 ```

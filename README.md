@@ -32,6 +32,10 @@ In this tutorial, our goal is to explore OpenSearch, add some data, and perform 
 
 [Prerequisites and setup](00_prereq_and_setup.md)
 
-[Add data to OpenSearch](01_add_data_to_opensearch.md)
+[Generate mock data](01_generate_mock_data.md)
 
-[Exercise 01 - search servers by location](02_search_servers_by_location.md)
+[Send data to OpenSearch](01_send_data_to_opensearch.md)
+
+[Search servers by location](03_search_servers_by_location.md)
+
+[Find servers with high memory usage](04_find_servers_with_high_memory_usage.md)
