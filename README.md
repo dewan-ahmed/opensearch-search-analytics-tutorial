@@ -34,7 +34,7 @@ In this tutorial, our goal is to explore OpenSearch, add some data, and perform 
 
 [Generate mock data](01_generate_mock_data.md)
 
-[Send data to OpenSearch](01_send_data_to_opensearch.md)
+[Send data to OpenSearch](02_send_data_to_opensearch.md)
 
 [Search servers by location](03_search_servers_by_location.md)
 
