@@ -41,3 +41,5 @@ In this tutorial, our goal is to explore OpenSearch, add some data, and perform 
 [Find servers with high memory usage](04_find_servers_with_high_memory_usage.md)
 
 [Find most used operating system](05_find_most_used_os.md)
+
+[Find servers by multi_match keyword](06_find_servers_by_multi_match_keyword.md)

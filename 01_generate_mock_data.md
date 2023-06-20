@@ -1,6 +1,6 @@
 ## Generate mock data
 
-The following Python code generates 1000 mock records using Python faker libary and adds the data to a JSON file. A sample record looks like this:
+The following Python code generates 1000 mock documents using Python faker libary and adds the data to a JSON file. A sample document looks like this:
 
 ```json
 {
