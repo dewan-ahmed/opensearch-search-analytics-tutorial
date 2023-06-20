@@ -43,3 +43,5 @@ In this tutorial, our goal is to explore OpenSearch, add some data, and perform 
 [Find most used operating system](05_find_most_used_os.md)
 
 [Find servers by multi_match keyword](06_find_servers_by_multi_match_keyword.md)
+
+[Fuzzy search](07_fuzzy_search.md)
